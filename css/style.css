@@ -1,0 +1,12 @@
+#users {
+	margin-top: 20px;
+}
+
+#store-user form fieldset, #update-user form fieldset {
+	display: flex;
+	flex-direction: column;
+}
+
+#store-user input, #update-user input {
+	margin-bottom: 10px;
+}
